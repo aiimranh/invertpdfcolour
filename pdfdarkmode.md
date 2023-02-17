@@ -1,5 +1,9 @@
 # Invert PDF Colour on Chromium-based Browser
+## Output:
+![darkpdf](./screenshots/tempdark.png)
 
+#
+## Procedure:
 - Select pdf opened tab and press f12.
 - Paste the code and just enter.
 
