@@ -1,10 +1,11 @@
 # Invert The Light PDF - Dark PDF
-
-Credit: [merkez](https://github.com/merkez/darkpdf)
-
-There was a little bug in code to run in windows. that is fixed.
+-  [Temporary dark mode on browser](pdfdarkmode.md)
 #
 
+The project is forked from [merkez](https://github.com/merkez/darkpdf)
+
+- There was a little bug in code to run in windows. that is fixed.
+#
 ### Output of a Sample
 ![Output of a Sample](./screenshots/readme_pic.png)
  
