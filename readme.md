@@ -4,7 +4,7 @@
 
 The project is forked from [merkez](https://github.com/merkez/darkpdf)
 
-- There was a little bug in code to run in windows. that is fixed.
+- There was a little bug in code to run in windows which was fixed.
 #
 ### Output of a Sample
 ![Output of a Sample](./screenshots/readme_pic.png)
